@@ -1,0 +1,121 @@
+*{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+body{
+    background-color: #ECECEC;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    margin: 20px 0px 10px -10px;
+}
+
+h1, h2, h3, h4{
+    font-family: Tahoma, sans-serif;
+}
+
+p{
+    margin: 10px 20px 25px 10px;
+}
+
+.link{
+    list-style: none;
+    text-decoration: none;
+    color: #FF9900;
+    display: inline;
+    padding-right: 15px ;    
+}
+
+.Gris{
+    color: #888888;
+    text-decoration: none;
+}
+
+.naranja{
+    color: #ffa500;
+}
+
+header{
+    background-color: #FF9900;
+    background-image: url(/img/pinitos.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 4px 0px rgba(128,128,128,1);
+}
+
+header h1{
+    color: white;
+    margin-top: 5px;
+}
+
+header h2{
+    color: #F3E359;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+nav{ 
+    border-radius: 10px;
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 40%, rgba(255,153,0,1) 60%, rgba(255,153,0,1) 100%);
+    padding: 10px;
+    margin-top: 15px;
+    box-shadow: 0px 0px 4px 0px rgba(128,128,128,1);
+}
+
+#Titulo-art{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 4px 0px rgba(128,128,128,1);
+}
+
+#Titulo-Nov{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 4px 0px rgba(128,128,128,1);
+}
+
+#Titulo-Sig{
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 0px 0px 4px 0px rgba(128,128,128,1);
+}
+
+table{
+    margin: 15px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 15px;
+}
+
+.Sec{
+    background-color: white;
+    border-radius: 10px;
+    padding: 3px;
+    box-shadow: 0px 0px 4px 0px rgba(128,128,128,1);
+}
+
+#Much-Pin{
+    padding: 3px;
+    margin: 10px;
+}
+
+footer{
+    display: inline;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 4px 0px rgba(128,128,128,1);
+}
